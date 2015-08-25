@@ -1,0 +1,7 @@
+Package: arrui.c.accelerate
+Name: Accelerate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Accelerate your iDevice boot speed,running speed,improve memory status.
+Section: mobile
+Pre-Depends: firmware (>= 4.0)
